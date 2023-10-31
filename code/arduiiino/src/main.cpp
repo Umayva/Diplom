@@ -22,10 +22,10 @@ void loop() {
   
   if(Serial.available()) {  
      
-    char data_rcvd = Serial.read();   // прочитать один байт из последовательного буфера и сохранить в data_rcvd
-    testatoi = atoi(data_rcvd);
-    //testatoi = ;
-    counter(testatoi);
+    // char data_rcvd = Serial.read();   // прочитать один байт из последовательного буфера и сохранить в data_rcvd
+    // testatoi = atoi(data_rcvd);
+    // //testatoi = ;
+    // counter(testatoi);
   
     Serial.print(testatoi);
   }
