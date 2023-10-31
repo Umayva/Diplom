@@ -14,6 +14,8 @@
 #include "constants.h"
 //#include "adc.h"
 
+char huy = 5;
+
 
 int listSize = 100;
 bool calibrated = false;
