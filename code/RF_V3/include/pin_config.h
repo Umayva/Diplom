@@ -46,8 +46,8 @@
 #define ringMotor2 21
 #define middleMotor1 19
 #define middleMotor2 18
-#define indexMotor1 23
-#define indexMotor2 25
+#define indexMotor1 25
+#define indexMotor2 23
 #define thumbMotor1 33
 #define thumbMotor2 12
 #endif
