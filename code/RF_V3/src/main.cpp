@@ -23,88 +23,14 @@ bool calibrated = false;
 void interactOverUART(void){
   /* --------- Interacts over UART sending and receiving 8 bit numbers -------- */
   
-  // force_message_reciever(); // Gets in new force values from VR or robot
-  // V2FollowandForce(); // Applies appropriate force to fingers
+  force_message_reciever(); // Gets in new force values from VR or robot
+  V2FollowandForce(); // Applies appropriate force to fingers
   readFingerPositions(); // Checks where the fingers are
   // Sends finger location to VR or robot 
   send_control();
-  delay(200);
+  // delay(200);
 }
 
-void controller() { // state machine takes keyboard inputs 
-  static int state = 'b'; //waiting
-  static int lastState = 'b'; //waiting
-
-  if (Serial.available() > 0) state = Serial.read(); // enter a letter to switch states
-
-  switch(state) {
-    
-    case 'a' : { // STOP!!
-      stopMotors();
-      Serial.println("Stopped");
-      state = 'b';
-      break;
-    }
-
-    case 'b' : { //Waiting 
-      Serial.println("Waiting");
-      printFingerPositions();
-      printForce();
-      delay(1000);
-      lastState = state;
-      break;
-    }
-
-    case 'c' : { // Calibrate Glove
-      Serial.println("Calibrating Glove");
-      calibration();
-      delay(200);
-      state = 'b';
-      break;
-    }
-
-    case 'e' : { // Free following 
-      followFingersV2();
-      lastState = state;
-      break;
-    }
-
-    case 'f' : { // VR or Robot Control
-      interactOverUART();
-      lastState = state;
-      break;
-    }
-
-    case 'i' : { // Increase Time Delay
-      delay_time += 10;
-      Serial.print("increasing time delay to ");
-      Serial.print(delay_time);
-      Serial.println(" microseconds");
-      state = lastState;;
-      break;
-    }  
-
-    case 'o' : { // Decrease Time Delay
-      delay_time -= 10;
-      if(delay_time < 11){
-        delay_time = 10;
-        Serial.println("Time delay is ~ Zero");
-      }
-      else {
-        Serial.print("decreasing time delay to ");
-        Serial.print(delay_time);
-        Serial.println(" microseconds");
-      }
-      state = lastState;;
-      break;
-    } 
-
-    default : { // Default Case
-      Serial.println("Invalid state");
-      state = 'a';
-    }
-  }
-}
 
 void manualCalibration(){
 
@@ -126,7 +52,7 @@ void manualCalibration(){
   //  b. Push on the motors and make sure the numbers being printed are changing.
   //  c. Stop pushing on the motors and let them sit naturally. Enter the resting values in the calibration header file.
 
-  // printForce();
+  printForce();
   // delay(300);
   
   // ===END STEP TWO. Put this line back in comments===
@@ -137,8 +63,8 @@ void manualCalibration(){
   // discontinuity between highest and lowest value. Attach the physical hardware fingers to the glove and 
   // verify that you don't hit zero or 4096
 
-  printFingerPositions(); //prints out the location of each finger. 
-  delay(300);
+  // printFingerPositions(); //prints out the location of each finger. 
+  // delay(300);
 
   // ===END STEP THREE. Leave this function running.
 
@@ -164,7 +90,7 @@ void manualCalibration(){
 }
 
 void setup() {
-	Serial.begin(9600);
+	Serial.begin(115200);
   setupMotors();
   delay(1000);
 }
@@ -186,7 +112,7 @@ void loop() {
 
   /* ------------------- Connect to VR or a robot over UART ------------------- */
   // UncommentaLY this function
-  interactOverUART(); // Calls James's simulation interface
+  interactOverUART(); // Ca-lls James's simulation interface
   /* ---------a------------- end VR or robot control ------------------------ */
 
 

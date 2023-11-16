@@ -27,17 +27,17 @@ void send_control() {
   int output;
 
   for (i = 0; i < (numOfFingers - 1); i++){
-    output = map(fingerPos[i], fingerPosMin[i], fingerPosMax[i], 0, 255);
-    if(output > 255) output = 255;
-    if(output < 0) output = 0;
-    Serial.print(output);
-    Serial.println("");
-
     // output = map(fingerPos[i], fingerPosMin[i], fingerPosMax[i], 0, 255);
     // if(output > 255) output = 255;
     // if(output < 0) output = 0;
     // Serial.print(output);
-    // Serial.print(",");
+    // Serial.println("");
+
+    output = map(fingerPos[i], fingerPosMin[i], fingerPosMax[i], 0, 255);
+    if(output > 255) output = 255;
+    if(output < 0) output = 0;
+    Serial.print(output);
+    Serial.print(",");
   }
   
   // output = map(fingerPos[i], fingerPosMin[i], fingerPosMax[i], 0, 255);
