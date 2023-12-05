@@ -1,0 +1,18 @@
+Added Component: Designator=XP7(XT30U-F)
+Added Component: Designator=XP8(PLD-12)
+Added Pin To Net: NetName=GND Pin=XP7-1
+Added Pin To Net: NetName=VCC Pin=XP7-2
+Added Pin To Net: NetName=NetXP1_3 Pin=XP8-1
+Added Pin To Net: NetName=NetXP2_3 Pin=XP8-2
+Added Pin To Net: NetName=NetXP3_3 Pin=XP8-3
+Added Pin To Net: NetName=NetXP4_3 Pin=XP8-4
+Added Pin To Net: NetName=NetXP5_3 Pin=XP8-5
+Added Pin To Net: NetName=NetXP1_4 Pin=XP8-6
+Added Pin To Net: NetName=NetXP2_4 Pin=XP8-7
+Added Pin To Net: NetName=NetXP3_4 Pin=XP8-8
+Added Pin To Net: NetName=NetXP4_4 Pin=XP8-9
+Added Pin To Net: NetName=NetXP5_4 Pin=XP8-10
+Added Pin To Net: NetName=NetR6_2 Pin=XP8-11
+Added Member To Class: ClassName=Sheet1 Member=Component XP7 XT30PW-M
+Added Member To Class: ClassName=Sheet1 Member=Component XP8 DRIVER
+Added Room: Name=Sheet1

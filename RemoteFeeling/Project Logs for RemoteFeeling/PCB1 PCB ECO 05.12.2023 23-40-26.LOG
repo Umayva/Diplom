@@ -1,0 +1,60 @@
+Added Component: Designator=R1(RES)
+Added Component: Designator=R2(RES)
+Added Component: Designator=R3(RES)
+Added Component: Designator=R4(RES)
+Added Component: Designator=R5(RES)
+Added Component: Designator=R6(RES)
+Added Component: Designator=VD1(DIODE)
+Added Component: Designator=VT1(TO-92)
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=VT1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=VT1-2
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetVD1_1 Pin=VD1-1
+Added Pin To Net: NetName=NetVD1_1 Pin=VT1-1
+Added Net: Name=NetVD1_1
+Added Net: Name=NetXP1_3
+Added Net: Name=NetXP1_4
+Added Net: Name=NetXP1_5
+Added Net: Name=NetXP1_6
+Added Net: Name=NetXP2_3
+Added Net: Name=NetXP2_4
+Added Net: Name=NetXP2_5
+Added Net: Name=NetXP3_3
+Added Net: Name=NetXP3_4
+Added Net: Name=NetXP3_5
+Added Net: Name=NetXP4_3
+Added Net: Name=NetXP4_4
+Added Net: Name=NetXP4_5
+Added Net: Name=NetXP5_3
+Added Net: Name=NetXP5_4
+Added Net: Name=NetXP5_5
+Added Pin To Net: NetName=VCC Pin=VD1-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component R1 res
+Added Member To Class: ClassName=Sheet1 Member=Component R2 res
+Added Member To Class: ClassName=Sheet1 Member=Component R3 res
+Added Member To Class: ClassName=Sheet1 Member=Component R4 res
+Added Member To Class: ClassName=Sheet1 Member=Component R5 res
+Added Member To Class: ClassName=Sheet1 Member=Component R6 res
+Added Member To Class: ClassName=Sheet1 Member=Component VD1 VD
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 npn
+Added Room: Name=Sheet1

@@ -1,0 +1,64 @@
+Added Component: Designator=XP1(PLS-6)
+Added Component: Designator=XP2(PLS-6)
+Added Component: Designator=XP3(PLS-6)
+Added Component: Designator=XP4(PLS-6)
+Added Component: Designator=XP5(PLS-6)
+Added Component: Designator=XP6(PLS-6)
+Added Component: Designator=XP9(PLD-10)
+Added Component: Designator=XP10(PLS-2)
+Added Pin To Net: NetName=VCC Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP1-2
+Added Pin To Net: NetName=NetXP1_3 Pin=XP1-3
+Added Pin To Net: NetName=NetXP1_4 Pin=XP1-4
+Added Pin To Net: NetName=NetXP1_5 Pin=XP1-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP1-6
+Added Pin To Net: NetName=VCC Pin=XP2-1
+Added Pin To Net: NetName=GND Pin=XP2-2
+Added Pin To Net: NetName=NetXP2_3 Pin=XP2-3
+Added Pin To Net: NetName=NetXP2_4 Pin=XP2-4
+Added Pin To Net: NetName=NetXP2_5 Pin=XP2-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP2-6
+Added Pin To Net: NetName=VCC Pin=XP3-1
+Added Pin To Net: NetName=GND Pin=XP3-2
+Added Pin To Net: NetName=NetXP3_3 Pin=XP3-3
+Added Pin To Net: NetName=NetXP3_4 Pin=XP3-4
+Added Pin To Net: NetName=NetXP3_5 Pin=XP3-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP3-6
+Added Pin To Net: NetName=VCC Pin=XP4-1
+Added Pin To Net: NetName=GND Pin=XP4-2
+Added Pin To Net: NetName=NetXP4_3 Pin=XP4-3
+Added Pin To Net: NetName=NetXP4_4 Pin=XP4-4
+Added Pin To Net: NetName=NetXP4_5 Pin=XP4-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP4-6
+Added Pin To Net: NetName=VCC Pin=XP5-1
+Added Pin To Net: NetName=GND Pin=XP5-2
+Added Pin To Net: NetName=NetXP5_3 Pin=XP5-3
+Added Pin To Net: NetName=NetXP5_4 Pin=XP5-4
+Added Pin To Net: NetName=NetXP5_5 Pin=XP5-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP5-6
+Added Pin To Net: NetName=NetXP1_5 Pin=XP6-1
+Added Pin To Net: NetName=NetXP2_5 Pin=XP6-2
+Added Pin To Net: NetName=NetXP3_5 Pin=XP6-3
+Added Pin To Net: NetName=NetXP4_5 Pin=XP6-4
+Added Pin To Net: NetName=NetXP5_5 Pin=XP6-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP6-6
+Added Pin To Net: NetName=VCC Pin=XP9-1
+Added Pin To Net: NetName=NetR1_2 Pin=XP9-2
+Added Pin To Net: NetName=VCC Pin=XP9-3
+Added Pin To Net: NetName=NetR2_2 Pin=XP9-4
+Added Pin To Net: NetName=VCC Pin=XP9-5
+Added Pin To Net: NetName=NetR3_2 Pin=XP9-6
+Added Pin To Net: NetName=VCC Pin=XP9-7
+Added Pin To Net: NetName=NetR4_2 Pin=XP9-8
+Added Pin To Net: NetName=VCC Pin=XP9-9
+Added Pin To Net: NetName=NetR5_2 Pin=XP9-10
+Added Pin To Net: NetName=VCC Pin=XP10-1
+Added Pin To Net: NetName=NetVD1_1 Pin=XP10-2
+Added Member To Class: ClassName=Sheet1 Member=Component XP1 SERV1
+Added Member To Class: ClassName=Sheet1 Member=Component XP2 SERV2
+Added Member To Class: ClassName=Sheet1 Member=Component XP3 SERV3
+Added Member To Class: ClassName=Sheet1 Member=Component XP4 SERV4
+Added Member To Class: ClassName=Sheet1 Member=Component XP5 SERV5
+Added Member To Class: ClassName=Sheet1 Member=Component XP6 SIGN
+Added Member To Class: ClassName=Sheet1 Member=Component XP9 FInger_force
+Added Member To Class: ClassName=Sheet1 Member=Component XP10 VIBRO_M
