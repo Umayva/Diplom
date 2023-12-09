@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetXP2_3 Pin=XP8-2
+Removed Pin From Net: NetName=NetXP3_3 Pin=XP8-3
+Removed Pin From Net: NetName=NetXP4_3 Pin=XP8-4
+Removed Pin From Net: NetName=NetXP5_3 Pin=XP8-5
+Removed Pin From Net: NetName=NetXP1_4 Pin=XP8-6
+Removed Pin From Net: NetName=NetXP2_4 Pin=XP8-7
+Removed Pin From Net: NetName=NetXP3_4 Pin=XP8-8
+Removed Pin From Net: NetName=NetXP4_4 Pin=XP8-9
+Added Pin To Net: NetName=NetXP1_4 Pin=XP8-2
+Added Pin To Net: NetName=NetXP2_3 Pin=XP8-3
+Added Pin To Net: NetName=NetXP2_4 Pin=XP8-4
+Added Pin To Net: NetName=NetXP3_3 Pin=XP8-5
+Added Pin To Net: NetName=NetXP3_4 Pin=XP8-6
+Added Pin To Net: NetName=NetXP4_3 Pin=XP8-7
+Added Pin To Net: NetName=NetXP4_4 Pin=XP8-8
+Added Pin To Net: NetName=NetXP5_3 Pin=XP8-9
+Added Room: Name=Sheet1
