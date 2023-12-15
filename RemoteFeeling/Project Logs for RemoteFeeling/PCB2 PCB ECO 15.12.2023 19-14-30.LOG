@@ -1,0 +1,346 @@
+Change Component Footprint: Designator=XP18 Old Footprint=XT30U-F New Footprint=XT30PW-M
+Added Component: Designator=*(SO-16)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C_EL_10)
+Added Component: Designator=C?(CAP)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=R1(RES)
+Added Component: Designator=R1(RES)
+Added Component: Designator=R2(RES)
+Added Component: Designator=R3(RES)
+Added Component: Designator=R4(RES)
+Added Component: Designator=R5(RES)
+Added Component: Designator=R6(RES)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Component: Designator=S?(Key)
+Added Component: Designator=S?(SPST-2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S?(SPST-2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOT-223)
+Added Component: Designator=VD1(DO214)
+Added Component: Designator=VD1(DIODE)
+Added Component: Designator=VD?(LED)
+Added Component: Designator=VD?(LED)
+Added Component: Designator=VD?(DO214)
+Added Component: Designator=VD?(D0402)
+Added Component: Designator=VD?(LED)
+Added Component: Designator=VD?(LED)
+Added Component: Designator=VT1(TO-92)
+Added Component: Designator=VT?(TO-92)
+Added Component: Designator=VT?(TO-92)
+Added Component: Designator=VT?(TO-92)
+Added Component: Designator=X?(47346-0001 (Molex, Micro USB))
+Added Component: Designator=XP1(XT30PW-M)
+Added Component: Designator=XP1(PLS-6)
+Added Component: Designator=XP2(B5B-XH-A)
+Added Component: Designator=XP2(PLS-6)
+Added Component: Designator=XP3(62000611622)
+Added Component: Designator=XP3(PLS-6)
+Added Component: Designator=XP4(IDC-12)
+Added Component: Designator=XP4(PLS-6)
+Added Component: Designator=XP5(PLS-6)
+Added Component: Designator=XP6(PLS(ESP32))
+Added Component: Designator=XP6(PLS-6)
+Added Component: Designator=XP7(XT30U-F)
+Added Component: Designator=XP8(PLD-12)
+Added Component: Designator=XP9(PLD-10)
+Added Component: Designator=XP10(PLS-2)
+Added Component: Designator=XP?(PLS-6)
+Added Component: Designator=XP?(PLS-6)
+Added Component: Designator=XP?(PLS-6)
+Added Component: Designator=XP?(XT30U-F)
+Added Component: Designator=XP?(PLS-6)
+Added Component: Designator=XP?(PLS-2)
+Added Component: Designator=XP?(PLD-10)
+Added Component: Designator=XP?(PLS-6)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=+12 Pin=C?-1
+Added Pin To Net: NetName=+12 Pin=C?-1
+Added Pin To Net: NetName=BAT Pin=C?-1
+Added Pin To Net: NetName=BAT Pin=C?-1
+Added Pin To Net: NetName=EN Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=Net*_4 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=VS Pin=C?-1
+Added Pin To Net: NetName=VS Pin=C?-1
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=BAT Pin=C?-2
+Added Pin To Net: NetName=BAT Pin=C?-2
+Added Pin To Net: NetName=BAT Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=+12 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=BAT Pin=R?-1
+Added Pin To Net: NetName=BAT Pin=R?-1
+Added Pin To Net: NetName=BAT Pin=R?-1
+Added Pin To Net: NetName=BAT Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=DTR Pin=R?-2
+Added Pin To Net: NetName=EN Pin=R?-2
+Added Pin To Net: NetName=FF1 Pin=R?-2
+Added Pin To Net: NetName=FF2 Pin=R?-2
+Added Pin To Net: NetName=FF3 Pin=R?-2
+Added Pin To Net: NetName=FF4 Pin=R?-2
+Added Pin To Net: NetName=FF5 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=RTS Pin=R?-2
+Added Pin To Net: NetName=VS Pin=R?-2
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-1
+Added Pin To Net: NetName=BAT Pin=S?-2
+Added Pin To Net: NetName=BAT Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=3.3V Pin=U?-3
+Added Pin To Net: NetName=GND Pin=VD1-1
+Added Pin To Net: NetName=BAT Pin=VD1-2
+Added Pin To Net: NetName=LX Pin=VD1-2
+Added Pin To Net: NetName=NetR1_1 Pin=VD?-1
+Added Pin To Net: NetName=NetR1_1 Pin=VD?-1
+Added Pin To Net: NetName=NetR?_2 Pin=VD?-1
+Added Pin To Net: NetName=NetVD?_1 Pin=VD?-1
+Added Pin To Net: NetName=BAT Pin=VD?-2
+Added Pin To Net: NetName=NetU1_0 Pin=VD?-2
+Added Pin To Net: NetName=NetVT1_1 Pin=VT1-1
+Added Pin To Net: NetName=GND Pin=VT1-3
+Added Pin To Net: NetName=NetVD?_1 Pin=VT?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VT?-2
+Added Pin To Net: NetName=DTR Pin=VT?-3
+Added Pin To Net: NetName=GND Pin=VT?-3
+Added Pin To Net: NetName=RTS Pin=VT?-3
+Added Pin To Net: NetName=BAT Pin=X?-1
+Added Pin To Net: NetName=Net*_6 Pin=X?-2
+Added Pin To Net: NetName=Net*_5 Pin=X?-3
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-7
+Added Pin To Net: NetName=BAT Pin=XP1-1
+Added Pin To Net: NetName=GND Pin=XP1-1
+Added Pin To Net: NetName=BAT Pin=XP1-2
+Added Pin To Net: NetName=GND Pin=XP1-2
+Added Pin To Net: NetName=NetXP1_3 Pin=XP1-3
+Added Pin To Net: NetName=NetXP1_4 Pin=XP1-4
+Added Pin To Net: NetName=NetXP1_5 Pin=XP1-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP1-6
+Added Pin To Net: NetName=BAT Pin=XP2-1
+Added Pin To Net: NetName=GND Pin=XP2-2
+Added Pin To Net: NetName=NetXP2_3 Pin=XP2-3
+Added Pin To Net: NetName=NetXP2_4 Pin=XP2-4
+Added Pin To Net: NetName=NetXP2_5 Pin=XP2-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP2-6
+Added Pin To Net: NetName=BAT Pin=XP3-1
+Added Pin To Net: NetName=GND Pin=XP3-2
+Added Pin To Net: NetName=NetXP3_3 Pin=XP3-3
+Added Pin To Net: NetName=NetXP3_4 Pin=XP3-4
+Added Pin To Net: NetName=NetXP3_5 Pin=XP3-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP3-6
+Added Pin To Net: NetName=VREF Pin=XP3-6
+Added Pin To Net: NetName=BAT Pin=XP4-1
+Added Pin To Net: NetName=GND Pin=XP4-2
+Added Pin To Net: NetName=NetXP4_3 Pin=XP4-3
+Added Pin To Net: NetName=NetXP4_4 Pin=XP4-4
+Added Pin To Net: NetName=NetXP4_5 Pin=XP4-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP4-6
+Added Pin To Net: NetName=BAT Pin=XP5-1
+Added Pin To Net: NetName=GND Pin=XP5-2
+Added Pin To Net: NetName=NetXP5_3 Pin=XP5-3
+Added Pin To Net: NetName=NetXP5_4 Pin=XP5-4
+Added Pin To Net: NetName=NetXP5_5 Pin=XP5-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP5-6
+Added Pin To Net: NetName=NetXP1_5 Pin=XP6-1
+Added Pin To Net: NetName=VREF Pin=XP6-1
+Added Pin To Net: NetName=NetXP2_5 Pin=XP6-2
+Added Pin To Net: NetName=NetXP3_5 Pin=XP6-3
+Added Pin To Net: NetName=NetXP4_5 Pin=XP6-4
+Added Pin To Net: NetName=NetXP5_5 Pin=XP6-5
+Added Pin To Net: NetName=NetXP1_6 Pin=XP6-6
+Added Pin To Net: NetName=GND Pin=XP6-18
+Added Pin To Net: NetName=BAT Pin=XP6-19
+Added Pin To Net: NetName=GND Pin=XP7-1
+Added Pin To Net: NetName=BAT Pin=XP7-2
+Added Pin To Net: NetName=NetXP1_3 Pin=XP8-1
+Added Pin To Net: NetName=NetXP1_4 Pin=XP8-2
+Added Pin To Net: NetName=NetXP2_3 Pin=XP8-3
+Added Pin To Net: NetName=NetXP2_4 Pin=XP8-4
+Added Pin To Net: NetName=NetXP3_3 Pin=XP8-5
+Added Pin To Net: NetName=NetXP3_4 Pin=XP8-6
+Added Pin To Net: NetName=NetXP4_3 Pin=XP8-7
+Added Pin To Net: NetName=NetXP4_4 Pin=XP8-8
+Added Pin To Net: NetName=NetXP5_3 Pin=XP8-9
+Added Pin To Net: NetName=NetXP5_4 Pin=XP8-10
+Added Pin To Net: NetName=NetR6_2 Pin=XP8-11
+Added Pin To Net: NetName=BAT Pin=XP9-1
+Added Pin To Net: NetName=NetR1_2 Pin=XP9-2
+Added Pin To Net: NetName=BAT Pin=XP9-3
+Added Pin To Net: NetName=NetR2_2 Pin=XP9-4
+Added Pin To Net: NetName=BAT Pin=XP9-5
+Added Pin To Net: NetName=NetR3_2 Pin=XP9-6
+Added Pin To Net: NetName=BAT Pin=XP9-7
+Added Pin To Net: NetName=NetR4_2 Pin=XP9-8
+Added Pin To Net: NetName=BAT Pin=XP9-9
+Added Pin To Net: NetName=NetR5_2 Pin=XP9-10
+Added Pin To Net: NetName=BAT Pin=XP10-1
+Added Pin To Net: NetName=NetVT1_1 Pin=XP10-2
+Added Pin To Net: NetName=BAT Pin=XP?-1
+Added Pin To Net: NetName=BAT Pin=XP?-1
+Added Pin To Net: NetName=BAT Pin=XP?-1
+Added Pin To Net: NetName=BAT Pin=XP?-1
+Added Pin To Net: NetName=BAT Pin=XP?-1
+Added Pin To Net: NetName=BAT Pin=XP?-1
+Added Pin To Net: NetName=GND Pin=XP?-1
+Added Pin To Net: NetName=FF1 Pin=XP?-2
+Added Pin To Net: NetName=GND Pin=XP?-2
+Added Pin To Net: NetName=GND Pin=XP?-2
+Added Pin To Net: NetName=GND Pin=XP?-2
+Added Pin To Net: NetName=GND Pin=XP?-2
+Added Pin To Net: NetName=GND Pin=XP?-2
+Added Pin To Net: NetName=NetVD?_1 Pin=XP?-2
+Added Pin To Net: NetName=BAT Pin=XP?-3
+Added Pin To Net: NetName=FF2 Pin=XP?-4
+Added Pin To Net: NetName=BAT Pin=XP?-5
+Added Pin To Net: NetName=3.3V Pin=XP?-6
+Added Pin To Net: NetName=3.3V Pin=XP?-6
+Added Pin To Net: NetName=3.3V Pin=XP?-6
+Added Pin To Net: NetName=3.3V Pin=XP?-6
+Added Pin To Net: NetName=3.3V Pin=XP?-6
+Added Pin To Net: NetName=FF3 Pin=XP?-6
+Added Pin To Net: NetName=BAT Pin=XP?-7
+Added Pin To Net: NetName=FF4 Pin=XP?-8
+Added Pin To Net: NetName=BAT Pin=XP?-9
+Added Pin To Net: NetName=FF5 Pin=XP?-10
+Added Member To Class: ClassName=Sheet3 Member=Component * CH340C
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap+
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet2 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet3 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet3 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet3 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet3 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet3 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet3 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component R1 res
+Added Member To Class: ClassName=Sheet2 Member=Component R1 res
+Added Member To Class: ClassName=Sheet1 Member=Component R2 res
+Added Member To Class: ClassName=Sheet1 Member=Component R3 res
+Added Member To Class: ClassName=Sheet1 Member=Component R4 res
+Added Member To Class: ClassName=Sheet1 Member=Component R5 res
+Added Member To Class: ClassName=Sheet1 Member=Component R6 res
+Added Member To Class: ClassName=Sheet2 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component R? res
+Added Member To Class: ClassName=Sheet3 Member=Component S? Key
+Added Member To Class: ClassName=Sheet3 Member=Component S? SW-PB
+Added Member To Class: ClassName=Sheet3 Member=Component S? SW-PB
+Added Member To Class: ClassName=Sheet3 Member=Component U? AMS1117
+Added Member To Class: ClassName=Sheet1 Member=Component VD1 VD
+Added Member To Class: ClassName=Sheet2 Member=Component VD1 Schottky diode
+Added Member To Class: ClassName=Sheet2 Member=Component VD? Led
+Added Member To Class: ClassName=Sheet2 Member=Component VD? Led
+Added Member To Class: ClassName=Sheet3 Member=Component VD? Led
+Added Member To Class: ClassName=Sheet3 Member=Component VD? Led
+Added Member To Class: ClassName=Sheet3 Member=Component VD? Schottky diode
+Added Member To Class: ClassName=Sheet3 Member=Component VD? VD
+Added Member To Class: ClassName=Sheet1 Member=Component VT1 npn
+Added Member To Class: ClassName=Sheet3 Member=Component VT? npn
+Added Member To Class: ClassName=Sheet3 Member=Component VT? npn
+Added Member To Class: ClassName=Sheet3 Member=Component VT? npn
+Added Member To Class: ClassName=Sheet3 Member=Component X? 47346-0001 (Molex, Micro USB)
+Added Member To Class: ClassName=Sheet1 Member=Component XP1 SERV1
+Added Member To Class: ClassName=Sheet2 Member=Component XP1 POWER
+Added Member To Class: ClassName=Sheet1 Member=Component XP2 SERV2
+Added Member To Class: ClassName=Sheet2 Member=Component XP2 FORSE
+Added Member To Class: ClassName=Sheet1 Member=Component XP3 SERV3
+Added Member To Class: ClassName=Sheet2 Member=Component XP3 SIGN
+Added Member To Class: ClassName=Sheet1 Member=Component XP4 SERV4
+Added Member To Class: ClassName=Sheet2 Member=Component XP4 DRIVER
+Added Member To Class: ClassName=Sheet1 Member=Component XP5 SERV5
+Added Member To Class: ClassName=Sheet1 Member=Component XP6 SIGN
+Added Member To Class: ClassName=Sheet2 Member=Component XP6 PLS-19x2(ESP32)
+Added Member To Class: ClassName=Sheet1 Member=Component XP7 XT30PW-M
+Added Member To Class: ClassName=Sheet1 Member=Component XP8 DRIVER
+Added Member To Class: ClassName=Sheet1 Member=Component XP9 FInger_force
+Added Member To Class: ClassName=Sheet1 Member=Component XP10 VIBRO_M
+Added Member To Class: ClassName=Sheet3 Member=Component XP? R_SERV4
+Added Member To Class: ClassName=Sheet3 Member=Component XP? M_SERV3
+Added Member To Class: ClassName=Sheet3 Member=Component XP? I_SERV2
+Added Member To Class: ClassName=Sheet3 Member=Component XP? XT30PW-M
+Added Member To Class: ClassName=Sheet3 Member=Component XP? T_SERV1
+Added Member To Class: ClassName=Sheet3 Member=Component XP? VIBRO_M
+Added Member To Class: ClassName=Sheet3 Member=Component XP? FInger_force
+Added Member To Class: ClassName=Sheet3 Member=Component XP? P_SERV5
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
+Added Room: Name=Sheet3
+Added Room: Name=Sheet4
