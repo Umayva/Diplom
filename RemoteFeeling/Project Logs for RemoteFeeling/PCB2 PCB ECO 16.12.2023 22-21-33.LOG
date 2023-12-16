@@ -1,0 +1,114 @@
+Change Component Footprint: Designator=R15* Old Footprint=R0805 New Footprint=R0603
+Added Component: Designator=C5(C_EL_10)
+Added Component: Designator=C6(CAP)
+Added Component: Designator=C7(C0805)
+Added Component: Designator=C8(C0805)
+Added Component: Designator=C11(C0805)
+Added Component: Designator=C12(C0805)
+Added Component: Designator=C13(C0805)
+Added Component: Designator=R20(R0805)
+Added Component: Designator=R22(R0805)
+Added Component: Designator=U3(ESP32-WROOM-32E)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "SoC Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Devkit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.espressif.com/en/products/devkits/esp32-devkitc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Added Component: Designator=U5(QFN-16)
+Added Component: Designator=VD4(LED)
+Added Component: Designator=VD5(LED)
+Added Component: Designator=VD6(DO214)
+Added Component: Designator=XP18(XT30U-F)
+Added Pin To Net: NetName=+12 Pin=C5-1
+Added Pin To Net: NetName=IO0 Pin=C5-2
+Added Pin To Net: NetName=+12 Pin=C6-1
+Added Pin To Net: NetName=IO0 Pin=C6-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=IO0 Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=BAT Pin=C8-2
+Added Pin To Net: NetName=NetC8_1 Pin=C11-1
+Added Pin To Net: NetName=BAT Pin=C11-2
+Added Pin To Net: NetName=BAT Pin=C12-1
+Added Pin To Net: NetName=IO0 Pin=C12-2
+Added Pin To Net: NetName=BAT Pin=C13-1
+Added Pin To Net: NetName=IO0 Pin=C13-2
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=+12 Pin=R20-2
+Added Pin To Net: NetName=BAT Pin=R22-1
+Added Pin To Net: NetName=NetC8_1 Pin=R22-2
+Added Pin To Net: NetName=IO0 Pin=U3-1
+Added Pin To Net: NetName=3.3V Pin=U3-2
+Added Pin To Net: NetName=EN Pin=U3-3
+Added Pin To Net: NetName=FF1 Pin=U3-4
+Added Pin To Net: NetName=FF2 Pin=U3-5
+Added Pin To Net: NetName=FF3 Pin=U3-6
+Added Pin To Net: NetName=FF4 Pin=U3-7
+Added Pin To Net: NetName=FF5 Pin=U3-8
+Added Pin To Net: NetName=TM2 Pin=U3-9
+Added Pin To Net: NetName=IM2 Pin=U3-10
+Added Pin To Net: NetName=RE Pin=U3-11
+Added Pin To Net: NetName=ME Pin=U3-12
+Added Pin To Net: NetName=IE Pin=U3-13
+Added Pin To Net: NetName=TM1 Pin=U3-14
+Added Pin To Net: NetName=IO0 Pin=U3-15
+Added Pin To Net: NetName=TE Pin=U3-16
+Added Pin To Net: NetName=IO0 Pin=U3-25
+Added Pin To Net: NetName=PE Pin=U3-26
+Added Pin To Net: NetName=PM1 Pin=U3-27
+Added Pin To Net: NetName=PM2 Pin=U3-28
+Added Pin To Net: NetName=VIBRO_M Pin=U3-29
+Added Pin To Net: NetName=MM1 Pin=U3-30
+Added Pin To Net: NetName=MM2 Pin=U3-31
+Added Pin To Net: NetName=RM1 Pin=U3-33
+Added Pin To Net: NetName=NetR9_2 Pin=U3-34
+Added Pin To Net: NetName=NetR7_2 Pin=U3-35
+Added Pin To Net: NetName=RM2 Pin=U3-36
+Added Pin To Net: NetName=IM1 Pin=U3-37
+Added Pin To Net: NetName=IO0 Pin=U3-38
+Added Pin To Net: NetName=IO0 Pin=U3-39
+Added Pin To Net: NetName=IO0 Pin=U3-39
+Added Pin To Net: NetName=IO0 Pin=U3-39
+Added Pin To Net: NetName=IO0 Pin=U3-39
+Added Pin To Net: NetName=IO0 Pin=U3-39
+Added Pin To Net: NetName=IO0 Pin=U3-39
+Added Pin To Net: NetName=IO0 Pin=U3-39
+Added Pin To Net: NetName=IO0 Pin=U3-39
+Added Pin To Net: NetName=IO0 Pin=U3-39
+Added Pin To Net: NetName=+12 Pin=U5-1
+Added Pin To Net: NetName=NetL1_2 Pin=U5-2
+Added Pin To Net: NetName=IO0 Pin=U5-7
+Added Pin To Net: NetName=NetC8_1 Pin=U5-8
+Added Pin To Net: NetName=BAT Pin=U5-9
+Added Pin To Net: NetName=NetC7_1 Pin=U5-10
+Added Pin To Net: NetName=IO0 Pin=U5-11
+Added Pin To Net: NetName=IO0 Pin=U5-12
+Added Pin To Net: NetName=NetC7_1 Pin=U5-13
+Added Pin To Net: NetName=NetU5_14 Pin=U5-14
+Added Pin To Net: NetName=NetU5_15 Pin=U5-15
+Added Pin To Net: NetName=NetR20_1 Pin=VD4-1
+Added Pin To Net: NetName=NetU5_14 Pin=VD4-2
+Added Pin To Net: NetName=NetR20_1 Pin=VD5-1
+Added Pin To Net: NetName=NetU5_15 Pin=VD5-2
+Added Pin To Net: NetName=IO0 Pin=VD6-1
+Added Pin To Net: NetName=NetL1_2 Pin=VD6-2
+Added Pin To Net: NetName=+12 Pin=XP18-1
+Added Pin To Net: NetName=IO0 Pin=XP18-2
+Added Member To Class: ClassName=Sheet4 Member=Component C5 Cap+
+Added Member To Class: ClassName=Sheet4 Member=Component C6 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C7 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C8 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C11 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C12 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C13 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component R20 res
+Added Member To Class: ClassName=Sheet4 Member=Component R22 res
+Added Member To Class: ClassName=Sheet4 Member=Component U3 ESP32-WROOM-32E
+Added Member To Class: ClassName=Sheet4 Member=Component U5 TP5100
+Added Member To Class: ClassName=Sheet4 Member=Component VD4 Led
+Added Member To Class: ClassName=Sheet4 Member=Component VD5 Led
+Added Member To Class: ClassName=Sheet4 Member=Component VD6 Schottky diode
+Added Member To Class: ClassName=Sheet4 Member=Component XP18 XT30PW-M
+Added Room: Name=Sheet4
