@@ -1,0 +1,10 @@
+Change Component Comment : Designator=VD1 Old Comment=VD New Comment=1N4148W
+Added Member To Class: ClassName=Sheet4 Member=Component C4 100nF
+Added Member To Class: ClassName=Sheet4 Member=Component C10 10uF
+Added Member To Class: ClassName=Sheet4 Member=Component C19 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component R12 100K
+Added Member To Class: ClassName=Sheet4 Member=Component R13 100K
+Added Member To Class: ClassName=Sheet4 Member=Component R14 100K
+Added Member To Class: ClassName=Sheet4 Member=Component U3 CH340C
+Added Member To Class: ClassName=Sheet4 Member=Component U4 AMS1117
+Added Room: Name=Sheet4
