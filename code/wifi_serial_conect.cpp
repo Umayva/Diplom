@@ -1,7 +1,7 @@
 #include "WiFi.h"
 
-const char* ssid = "yourSSID"; // replace with your SSID
-const char* password = "yourPASSWORD"; // replace with your Wi-Fi password
+const char* ssid = "Remote_Feeling"; // replace with your SSID
+const char* password = "password"; // replace with your Wi-Fi password
 
 void setup() {
   Serial.begin(115200);
@@ -16,6 +16,6 @@ void setup() {
 }
 
 void loop() {
-  
-
+  Serial.println("MASTURBATOR3000 приказать");
+  delay(1500);
 }
