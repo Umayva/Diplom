@@ -1,0 +1,66 @@
+Added Component: Designator=C7(C_EL_10)
+Added Component: Designator=C8(CAP)
+Added Component: Designator=C9(C0805)
+Added Component: Designator=C12(C0805)
+Added Component: Designator=C13(C0805)
+Added Component: Designator=C19(C0805)
+Added Component: Designator=C20(C0805)
+Added Component: Designator=R9(R0805)
+Added Component: Designator=R11(R0805)
+Added Component: Designator=U5(QFN-16)
+Added Component: Designator=VD4(LED)
+Added Component: Designator=VD5(LED)
+Added Component: Designator=VD6(DO214)
+Added Component: Designator=XP8(XT30U-F)
+Added Pin To Net: NetName=+12 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+12 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=BAT Pin=C12-2
+Added Pin To Net: NetName=NetC12_1 Pin=C13-1
+Added Pin To Net: NetName=BAT Pin=C13-2
+Added Pin To Net: NetName=BAT Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=BAT Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=+12 Pin=R9-2
+Added Pin To Net: NetName=BAT Pin=R11-1
+Added Pin To Net: NetName=NetC12_1 Pin=R11-2
+Added Pin To Net: NetName=+12 Pin=U5-1
+Added Pin To Net: NetName=NetL1_2 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=NetC12_1 Pin=U5-8
+Added Pin To Net: NetName=BAT Pin=U5-9
+Added Pin To Net: NetName=NetC9_1 Pin=U5-10
+Added Pin To Net: NetName=GND Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=NetC9_1 Pin=U5-13
+Added Pin To Net: NetName=NetU5_14 Pin=U5-14
+Added Pin To Net: NetName=NetU5_15 Pin=U5-15
+Added Pin To Net: NetName=NetR9_1 Pin=VD4-1
+Added Pin To Net: NetName=NetU5_14 Pin=VD4-2
+Added Pin To Net: NetName=NetR9_1 Pin=VD5-1
+Added Pin To Net: NetName=NetU5_15 Pin=VD5-2
+Added Pin To Net: NetName=GND Pin=VD6-1
+Added Pin To Net: NetName=NetL1_2 Pin=VD6-2
+Added Pin To Net: NetName=+12 Pin=XP8-1
+Added Pin To Net: NetName=GND Pin=XP8-2
+Added Member To Class: ClassName=Sheet4 Member=Component C7 Cap+
+Added Member To Class: ClassName=Sheet4 Member=Component C8 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C9 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C12 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C13 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C19 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component C20 Cap
+Added Member To Class: ClassName=Sheet4 Member=Component R9 res
+Added Member To Class: ClassName=Sheet4 Member=Component R11 res
+Added Member To Class: ClassName=Sheet4 Member=Component U5 TP5100
+Added Member To Class: ClassName=Sheet4 Member=Component VD4 Led
+Added Member To Class: ClassName=Sheet4 Member=Component VD5 Led
+Added Member To Class: ClassName=Sheet4 Member=Component VD6 Schottky diode
+Added Member To Class: ClassName=Sheet4 Member=Component XP8 XT30PW-M
+Added Room: Name=Sheet4
