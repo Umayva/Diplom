@@ -2,8 +2,10 @@ Output: Gerber Files
 Type  : Gerber
 From  : Variant [[No Variations]] of Project [RemoteFeeling.PrjPcb]
    Generated File[PCB2.GTO]
+   Generated File[PCB2.GTS]
    Generated File[PCB2.GTL]
    Generated File[PCB2.GBL]
+   Generated File[PCB2.GBS]
    Generated File[PCB2.GBO]
    Generated File[PCB2.GM1]
    Generated File[PCB2.GD1]
@@ -13,7 +15,7 @@ From  : Variant [[No Variations]] of Project [RemoteFeeling.PrjPcb]
    Generated File[PCB2.REP]
 
 
-Files Generated   : 10
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 11:32:50 On 29.01.2024
+Finished Output Generation At 17:12:18 On 03.02.2024
