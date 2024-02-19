@@ -41,23 +41,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QJRUMLEG
-
-[Document2]
 DocumentPath=..\espressif-altium-libs-main\espressif-altium-libs-main\ESP32.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +57,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNTBWVJG
 
-[Document3]
+[Document2]
 DocumentPath=Pakage_lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNCJEWIN
 
-[Document4]
+[Document3]
 DocumentPath=Разъемы.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TPMQOINN
 
-[Document5]
+[Document4]
 DocumentPath=..\AltiumLibraries-master\Packages\Allwinner.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TIWYOGOF
 
-[Document6]
+[Document5]
 DocumentPath=Pakage_lib.pcblib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXCJDWRW
 
-[Document7]
+[Document6]
 DocumentPath=..\AltiumLibraries-master\Packages\Passive.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBESCLAV
 
-[Document8]
+[Document7]
 DocumentPath=Разъемы.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TRTAJTKM
 
-[Document9]
+[Document8]
 DocumentPath=..\AltiumLibraries-master\Packages\DDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIYAHGKT
 
-[Document10]
+[Document9]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GUVFPNVA
 
-[Document11]
+[Document10]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_SPOX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NFWNJWTQ
 
-[Document12]
+[Document11]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_FPC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFUMGNYW
 
-[Document13]
+[Document12]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_Power.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JOLTKFVV
 
-[Document14]
+[Document13]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_DIN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXIAFXMW
 
-[Document15]
+[Document14]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_Audio.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EKCHJOFG
 
-[Document16]
+[Document15]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_DB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CILOLQPQ
 
-[Document17]
+[Document16]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_MemoryCards.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBMUQEPI
 
-[Document18]
+[Document17]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_Terminals.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BTLLCILP
 
-[Document19]
+[Document18]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_Header_2.54mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFLPYBOX
 
-[Document20]
+[Document19]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_Header_1.27mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUNWPBSA
 
-[Document21]
+[Document20]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_USB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DDPGNQBN
 
-[Document22]
+[Document21]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_MiniFIT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNNRPPGR
 
-[Document23]
+[Document22]
 DocumentPath=..\AltiumLibraries-master\Packages\Connectors_IDC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLWKVHYJ
 
-[Document24]
+[Document23]
 DocumentPath=..\AltiumLibraries-master\Packages\Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQXRBLJX
 
-[Document25]
+[Document24]
 DocumentPath=..\AltiumLibraries-master\Packages\DO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -465,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HPEFSYMW
 
-[Document26]
+[Document25]
 DocumentPath=..\AltiumLibraries-master\Packages\SOD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -482,7 +465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YYDQAWXG
 
-[Document27]
+[Document26]
 DocumentPath=..\AltiumLibraries-master\Packages\TO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -499,7 +482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOQBMTLX
 
-[Document28]
+[Document27]
 DocumentPath=..\AltiumLibraries-master\Packages\DirectFET.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -516,7 +499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LMWWDUQG
 
-[Document29]
+[Document28]
 DocumentPath=..\AltiumLibraries-master\Packages\SOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -533,7 +516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IYXRECEQ
 
-[Document30]
+[Document29]
 DocumentPath=..\AltiumLibraries-master\Packages\SOP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -550,7 +533,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXYKVMBF
 
-[Document31]
+[Document30]
 DocumentPath=..\AltiumLibraries-master\Packages\SON.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -567,7 +550,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BGSHSMSC
 
-[Document32]
+[Document31]
 DocumentPath=..\AltiumLibraries-master\Packages\SO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -584,7 +567,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DECVIPEA
 
-[Document33]
+[Document32]
 DocumentPath=..\AltiumLibraries-master\Packages\RF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -601,7 +584,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEMXNFTH
 
-[Document34]
+[Document33]
 DocumentPath=..\AltiumLibraries-master\Packages\QFP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -618,7 +601,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNTHUCYK
 
-[Document35]
+[Document34]
 DocumentPath=..\AltiumLibraries-master\Packages\QFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -635,7 +618,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCVQFDLF
 
-[Document36]
+[Document35]
 DocumentPath=..\AltiumLibraries-master\Packages\Optocouplers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -652,7 +635,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJGWUOBI
 
-[Document37]
+[Document36]
 DocumentPath=..\AltiumLibraries-master\Packages\Misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -669,7 +652,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYEDBNMK
 
-[Document38]
+[Document37]
 DocumentPath=..\AltiumLibraries-master\Packages\LGA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -686,7 +669,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQJMWLVT
 
-[Document39]
+[Document38]
 DocumentPath=..\AltiumLibraries-master\Packages\DFN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -703,7 +686,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXXNJPLQ
 
-[Document40]
+[Document39]
 DocumentPath=..\AltiumLibraries-master\Packages\CSP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -720,7 +703,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IASJPEEM
 
-[Document41]
+[Document40]
 DocumentPath=..\AltiumLibraries-master\Packages\Crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -737,7 +720,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YILNFMAX
 
-[Document42]
+[Document41]
 DocumentPath=..\AltiumLibraries-master\Packages\BGA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -754,7 +737,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKYJGQLT
 
-[Document43]
+[Document42]
 DocumentPath=RemoteFeeling.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -771,7 +754,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=Sheet4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -788,7 +771,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SCMUCJUA
 
-[Document45]
+[Document44]
 DocumentPath=PCB2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -805,7 +788,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHCDNPFA
 
-[Document46]
+[Document45]
 DocumentPath=..\espressif-altium-libs-main\espressif-altium-libs-main\ESP32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -822,42 +805,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document48]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document49]
-DocumentPath=CAMtastic3.Cam
+[Document46]
+DocumentPath=SSS_UniversalJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -874,43 +823,43 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RemoteFeeling\PCB2.EXTREP
+DocumentPath=Project Outputs for RemoteFeeling\PCB2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for RemoteFeeling\PCB2.GBL
+DocumentPath=Project Outputs for RemoteFeeling\PCB2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for RemoteFeeling\PCB2.GBO
+DocumentPath=Project Outputs for RemoteFeeling\PCB2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for RemoteFeeling\PCB2.GBS
+DocumentPath=Project Outputs for RemoteFeeling\PCB2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for RemoteFeeling\PCB2.GD1
+DocumentPath=Project Outputs for RemoteFeeling\PCB2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for RemoteFeeling\PCB2.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
 DocumentPath=Project Outputs for RemoteFeeling\PCB2.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for RemoteFeeling\PCB2.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for RemoteFeeling\PCB2.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for RemoteFeeling\PCB2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for RemoteFeeling\PCB2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
@@ -919,6 +868,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument12]
 DocumentPath=Project Outputs for RemoteFeeling\PCB2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for RemoteFeeling\PCB2.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -1079,7 +1032,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Hewlett-Packard HP LaserJet Pro MFP M125r
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1181,7 +1134,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Hewlett-Packard HP LaserJet Pro MFP M125r
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1228,6 +1181,10 @@ OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Documents\Diplom\RemoteFeeling\PCB2.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -1252,7 +1209,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set="Signal Layers","Electrical Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\Documents\Diplom\RemoteFeeling\PCB2.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set="Signal Layers","Electrical Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\Documents\Diplom\RemoteFeeling\PCB2.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
