@@ -8,7 +8,7 @@
 
 #include <Arduino.h> // Подключение библиотеки Arduino для работы с UART
 
-#include <Arduino.h> // Подключение библиотеки Arduino для работы с UART
+
 
 // Управление серводвигателями
 void setServoAngle(int servoPin, int angle) {

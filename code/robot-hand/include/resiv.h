@@ -16,7 +16,7 @@ void setup() {
   IPAddress IP = WiFi.softAPIP();
   Serial.print("AP IP address: ");
   Serial.println(IP);
-  Server ();//запустили сервер для входящих POST-запросов
+  Serve r ();//запустили сервер для входящих POST-запросов
 }
 
 void resiv();
@@ -49,6 +49,7 @@ void TestSender ()
 {
     WiFiClient client;
     HTTPClient http;
+    
 
     
     // Your Domain name with URL path or IP address with path
