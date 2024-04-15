@@ -28,7 +28,7 @@ void interactOverUART(void){
   readFingerPositions(); // Checks where the fingers are
   // Sends finger location to VR or robot 
   send_control();
-  // delay(200);
+  delay(200);
 }
 
 
@@ -52,7 +52,7 @@ void manualCalibration(){
   //  b. Push on the motors and make sure the numbers being printed are changing.
   //  c. Stop pushing on the motors and let them sit naturally. Enter the resting values in the calibration header file.
 
-  printForce();
+  // printForce();
   // delay(300);
   
   // ===END STEP TWO. Put this line back in comments===
@@ -81,7 +81,7 @@ void manualCalibration(){
   // STEP FIVE. Uncomment the followFingersV2 function, upload, and move your fingers. 
   // The motors should help drive the exoskeleton to follow your fingers
 
-  // followFingersV2(); //Just move with your finger motion, nothing else
+  followFingersV2(); //Just move with your finger motion, nothing else
 
   // END STEP FIVE. Put this line back in comments
 
@@ -106,13 +106,13 @@ void loop() {
 
   /* --------------------------- manual calibration --------------------------- */
   // Uncomment ONLY this function and follow the instructions in the function body
-  // manualCalibration();
+  manualCalibration();
   /* ------------------------- end manual calibration ------------------------- */
 
 
   /* ------------------- Connect to VR or a robot over UART ------------------- */
   // UncommentaLY this function
-  interactOverUART(); // Ca-lls James's simulation interface
+  // interactOverUART(); // Ca-lls James's simulation interface
   /* ---------a------------- end VR or robot control ------------------------ */
 
 
