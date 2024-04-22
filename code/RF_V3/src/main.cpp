@@ -90,7 +90,14 @@ void manualCalibration(){
 }
 
 void setup() {
-	Serial.begin(115200);
+  Serial.begin(115200);
+  Serial.println();
+  Serial.print("Setting AP (Access Point)…");
+  WiFi.softAP(ssid, password);
+  IPAddress IP = WiFi.softAPIP();
+  Serial.print("AP IP address: ");
+  Serial.println(IP);
+  Server();
   setupMotors();
   delay(1000);
 }
@@ -101,12 +108,12 @@ void loop() {
   /*       Use the following functions by uncommenting ONLY ONE AT A TIME       */
   /* -------------------------------------------------------------------------- */
 
-  // test_UART();
+  test_UART();
   // delay(100);
 
   /* --------------------------- manual calibration --------------------------- */
   // Uncomment ONLY this function and follow the instructions in the function body
-  manualCalibration();
+  // manualCalibration();
   /* ------------------------- end manual calibration ------------------------- */
 
 
