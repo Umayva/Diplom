@@ -14,7 +14,7 @@ void printForce(void){
   for(int i = 0; i < numOfFingers; i++){
     // Serial.print(Fingers[i]);
     Serial.print(" force is\t\t");
-    Serial.println(analogRead(FFPins[3]));
+    Serial.println(analogRead(FFPins[i]));
   }
 }
 

@@ -24,11 +24,11 @@ void interactOverUART(void){
   /* --------- Interacts over UART sending and receiving 8 bit numbers -------- */
   
   force_message_reciever(); // Gets in new force values from VR or robot
-  V2FollowandForce(); // Applies appropriate force to fingers
+  // V2FollowandForce(); // Applies appropriate force to fingers
   readFingerPositions(); // Checks where the fingers are
   // Sends finger location to VR or robot 
   send_control();
-  delay(200);
+  // delay(200);
 }
 
 
@@ -52,8 +52,8 @@ void manualCalibration(){
   //  b. Push on the motors and make sure the numbers being printed are changing.
   //  c. Stop pushing on the motors and let them sit naturally. Enter the resting values in the calibration header file.
 
-  // printForce();
-  // delay(300);
+  printForce();
+  delay(300);
   
   // ===END STEP TWO. Put this line back in comments===
 
@@ -81,7 +81,7 @@ void manualCalibration(){
   // STEP FIVE. Uncomment the followFingersV2 function, upload, and move your fingers. 
   // The motors should help drive the exoskeleton to follow your fingers
 
-  followFingersV2(); //Just move with your finger motion, nothing else
+  // followFingersV2(); //Just move with your finger motion, nothing else
 
   // END STEP FIVE. Put this line back in comments
 
@@ -91,13 +91,6 @@ void manualCalibration(){
 
 void setup() {
   Serial.begin(115200);
-  Serial.println();
-  Serial.print("Setting AP (Access Point)…");
-  WiFi.softAP(ssid, password);
-  IPAddress IP = WiFi.softAPIP();
-  Serial.print("AP IP address: ");
-  Serial.println(IP);
-  Server();
   setupMotors();
   delay(1000);
 }
@@ -108,7 +101,7 @@ void loop() {
   /*       Use the following functions by uncommenting ONLY ONE AT A TIME       */
   /* -------------------------------------------------------------------------- */
 
-  test_UART();
+  // test_UART();
   // delay(100);
 
   /* --------------------------- manual calibration --------------------------- */
@@ -119,7 +112,7 @@ void loop() {
 
   /* ------------------- Connect to VR or a robot over UART ------------------- */
   // UncommentaLY this function
-  // interactOverUART(); // Ca-lls James's simulation interface
+  interactOverUART(); // Ca-lls James's simulation interface
   /* ---------a------------- end VR or robot control ------------------------ */
 
 
