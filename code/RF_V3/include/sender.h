@@ -38,5 +38,21 @@ void send_control() {
   Serial.println("");
 
 }
+void sendbytes() {
+  // int i = 0;
+  int temp_output;
+  uint8_t output[5];
+  uint8_t max = 125;
+  uint8_t min = 1;
+  for (int i = 0; i < (numOfFingers); i++){
+    temp_output = map(fingerPos[i], fingerPosMin[i], fingerPosMax[i], min, max);
+    if(temp_output > max) temp_output = max;
+    if(temp_output < min) temp_output = min;
+    output[i] = temp_output;
+    Serial.write(output[i]);
+  }
+  Serial.write('~');
+
+}
 
 #endif

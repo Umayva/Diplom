@@ -24,10 +24,11 @@ void interactOverUART(void){
   /* --------- Interacts over UART sending and receiving 8 bit numbers -------- */
   
   force_message_reciever(); // Gets in new force values from VR or robot
-  // V2FollowandForce(); // Applies appropriate force to fingers
+  V2FollowandForce(); // Applies appropriate force to fingers
   readFingerPositions(); // Checks where the fingers are
   // Sends finger location to VR or robot 
-  send_control();
+  // send_control();
+  sendbytes();
   // delay(200);
 }
 
@@ -42,8 +43,8 @@ void manualCalibration(){
   // should be changing when the motor moves===
 
   // testMotors(2); // function argument = ms delay. 2ms delay time sets a good speed of ramp up
-  // printFingerPositions();
-  // delay(100);
+  printFingerPositions();
+  delay(100);
   
   // ===END STEP ONE. Put these lines back in comments===
   
@@ -52,8 +53,8 @@ void manualCalibration(){
   //  b. Push on the motors and make sure the numbers being printed are changing.
   //  c. Stop pushing on the motors and let them sit naturally. Enter the resting values in the calibration header file.
 
-  printForce();
-  delay(300);
+  // printForce();
+  // delay(300);
   
   // ===END STEP TWO. Put this line back in comments===
 
