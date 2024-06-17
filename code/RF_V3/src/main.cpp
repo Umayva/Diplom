@@ -43,8 +43,8 @@ void manualCalibration(){
   // should be changing when the motor moves===
 
   // testMotors(2); // function argument = ms delay. 2ms delay time sets a good speed of ramp up
-  printFingerPositions();
-  delay(100);
+  // printFingerPositions();
+  // delay(100);
   
   // ===END STEP ONE. Put these lines back in comments===
   
@@ -64,8 +64,8 @@ void manualCalibration(){
   // discontinuity between highest and lowest value. Attach the physical hardware fingers to the glove and 
   // verify that you don't hit zero or 4096
 
-  // printFingerPositions(); //prints out the location of each finger. 
-  // delay(300);
+  printFingerPositions(); //prints out the location of each finger. 
+  delay(300);
 
   // ===END STEP THREE. Leave this function running.
 
@@ -94,6 +94,8 @@ void setup() {
   Serial.begin(115200);
   setupMotors();
   delay(1000);
+  pinMode(vibro,  OUTPUT  );               // Переводим вывод pinVib в режим выхода
+  digitalWrite(vibro, LOW ); 
 }
 
 void loop() {
@@ -108,6 +110,8 @@ void loop() {
   /* --------------------------- manual calibration --------------------------- */
   // Uncomment ONLY this function and follow the instructions in the function body
   // manualCalibration();
+  // digitalWrite(vibro, HIGH); delay(1000);   // Включаем вибромодуль на 0,5 секунд
+  // digitalWrite(vibro, LOW ); delay(2000);
   /* ------------------------- end manual calibration ------------------------- */
 
 

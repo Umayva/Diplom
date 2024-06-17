@@ -863,14 +863,18 @@ DocumentPath=Project Outputs for RemoteFeeling\PCB2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for RemoteFeeling\PCB2.REP
+DocumentPath=Документация\PCB2.PcbDoc.pdf
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for RemoteFeeling\PCB2.RUL
+DocumentPath=Project Outputs for RemoteFeeling\PCB2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
+DocumentPath=Project Outputs for RemoteFeeling\PCB2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
 DocumentPath=Project Outputs for RemoteFeeling\PCB2.TXT
 DItemRevisionGUID=
 
@@ -1259,6 +1263,11 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+OutputType9=BoardAssistant
+OutputName9=BoardAssistant text documents
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
 
 [OutputGroup7]
 Name=Other Outputs

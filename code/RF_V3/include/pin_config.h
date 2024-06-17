@@ -9,7 +9,7 @@
 
 #define vibrator 33
 #define vibrator2 25
-
+#define vibro 5
 #define RXp2 16
 #define TXp2 17
 
@@ -40,10 +40,10 @@
 #define FF4 35
 #define FF5 32
 
-#define pinkyMotor1 17
-#define pinkyMotor2 16
-#define ringMotor1 22
-#define ringMotor2 21
+#define pinkyMotor1 16
+#define pinkyMotor2 17
+#define ringMotor1 21
+#define ringMotor2 22
 #define middleMotor1 19
 #define middleMotor2 18
 #define indexMotor1 25

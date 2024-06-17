@@ -40,14 +40,15 @@ int fingerPosMin[numOfFingers] = {400,650,2200,1300,1600}; // hand all the way c
 int fingerPosMax[numOfFingers] = {1200,1500,1000,275,550}; // hand all the way open 
 long int restForce[numOfFingers] = {1860,1720,1400,1840,2100}; // preload force on the force sensor
 #endif
-
+// {670,200,1150,2460,550}
+// {3200,2400,2200,350,1600}
 #if NEWUSER // Your glove
 /* --------------------------- manual calibration --------------------------- */
 // Easiest to start before you put the fingers onto the glove motors.
 // Follow steps in main.cpp under manual calibration function. It was too hard put it here. 
-int fingerPosMin[numOfFingers] = {400,650,2200,1950,1600}; // hand all the way closed
-int fingerPosMax[numOfFingers] = {1200,1500,1000,260,550}; // hand all the way open 
-long int restForce[numOfFingers] = {1860,1720,1400,4095,2100}; // preload force on the force sensor
+int fingerPosMin[numOfFingers] = {1100,3000,1150,2000,4000}; // hand all the way open
+int fingerPosMax[numOfFingers] = {2500,4095,2200,270,500}; // hand all the way  
+long int restForce[numOfFingers] = {4095,4095,4095,4095,4095}; // preload force on the force sensor
 #endif
 
 // To use for calibration (Not working 7/31/22)
